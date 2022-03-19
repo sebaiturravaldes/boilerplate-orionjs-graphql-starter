@@ -1,4 +1,4 @@
-# Orionjs typescript-starter
+# Orionjs Graphql Starter
 
 ## Requirements
 
