@@ -24,7 +24,7 @@ yarn install
 sh start.sh
 ```
 
-Open your browser and navigate to [http://localhost:3000/graphql](http://localhost:3000/graphql)
+Open your browser and navigate to [http://localhost:3000/graphiql](http://localhost:3000/graphiql)
 
 ## Build
 
